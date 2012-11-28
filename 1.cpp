@@ -1,5 +1,8 @@
 /* simple algorithm to loop through possible factors
  *
+ * see 1alt.cpp for an alternative "sieve" algorithm that can solve part c)
+ * efficiently
+ *
  * the longest it can take is number/2 iterations. Half a million iterations of
  * simple operations will fit into a second comfortably for C++ code
  */
